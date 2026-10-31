@@ -25,9 +25,6 @@ Decisión que informó: análisis costo-beneficio para determinar si la inversi�
 
 Informe formal de siete secciones que comunica los resultados del modelo de rentabilidad operativa: supuestos del análisis, estructura de costos, resultados por escenario estacional (invierno y verano), oportunidad de reducción de costos en insumos, propuesta de política de precios escalonada por volumen y conclusiones. Elaborado con perfil moderado/conservador sobre datos reales del negocio.
 
-**Complementa:** el modelo Excel de rentabilidad operativa, del cual toma los números y los traduce a formato ejecutivo.[Uploading Informe_Rentabilidad_Hielo.pdf…]()
-
-
 ## Contacto
 
 Exequiel Cazorla · exequielcazorla@gmail.com · LinkedIn
